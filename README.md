@@ -18,7 +18,10 @@ The visualization includes popups that provide additional information about the 
 
 **Project Parameters**
 
-Use USGS GeoJSON Feed data to visualize earthquakes on a map
-Represent the magnitude of earthquakes by size and depth by color on the data markers
-Add popups with additional information about earthquakes when markers are clicked
-Create a legend to provide context for the map data
+* Use USGS GeoJSON Feed data to visualize earthquakes on a map
+  
+* Represent the magnitude of earthquakes by size and depth by color on the data markers
+  
+* Add popups with additional information about earthquakes when markers are clicked
+  
+* Create a legend to provide context for the map data
